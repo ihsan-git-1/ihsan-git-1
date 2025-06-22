@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ihsan</h1>
 
+📫 How to reach me: ihsan.abourshaid@gmail.com
+
 I am Software Engineer with over 5 years of experience in both full-stack and mobile application design. Proven
 ability to create innovative and high-performance solutions for diverse industries. Passionate about staying at
 the forefront of technology and delivering excellence in every project.
 
-# 👋 Hi, I'm Ihsan
-
-- 📫 How to reach me: ihsan.abourshaid@gmail.com
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
