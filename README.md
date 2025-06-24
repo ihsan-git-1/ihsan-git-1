@@ -45,9 +45,9 @@ the forefront of technology and delivering excellence in every project.
    <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ihsan-git-1&theme=react&line_height=40&hide=css"/> </a>
    
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="https://www.facebook.com/ihssan.abourshaed" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="EhsanAbourshaed"  /></a>
-<a href="https://www.linkedin.com/in/ehsan-abourshaid-29438622b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="EhsanAbourshaed" /></a>
-<a href="https://www.instagram.com/ehsanabourshaid/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="EhsanAbourshaed" /></a>
+<a href="https://www.facebook.com/ihsanabourshaid" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="EhsanAbourshaed"  /></a>
+<a href="https://www.linkedin.com/in/ihsan-abourshaid-29438622b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="EhsanAbourshaed" /></a>
+<a href="https://www.instagram.com/ihsanabourshaid/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="EhsanAbourshaed" /></a>
    
 <br>
 
